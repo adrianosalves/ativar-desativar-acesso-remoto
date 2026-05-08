@@ -78,6 +78,7 @@ sc stop A1Agent
 
 ## Autor
 
+Adriano Alves
 ALVESNET Suporte Remoto
 
 ---
