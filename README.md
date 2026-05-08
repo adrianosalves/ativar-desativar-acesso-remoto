@@ -2,6 +2,8 @@
 
 Software para gerenciar o serviço de suporte remoto A1Agent de forma simples e intuitiva.
 
+![Gerenciar Aceeso Remoto](https://github.com/adrianosalves/ativar-desativar-acesso-remoto/blob/main/images/GerenciarAcessoRemoto.png)
+
 ## O que este programa faz?
 
 Este programa permite **ativar** e **desativar** o serviço de suporte remoto (A1Agent) no seu computador com apenas um clique. Ideal para técnicos de suporte que precisam controlar o acesso remoto de forma rápida.
@@ -76,6 +78,7 @@ sc stop A1Agent
 
 ## Autor
 
+Adriano Alves
 ALVESNET Suporte Remoto
 
 ---
