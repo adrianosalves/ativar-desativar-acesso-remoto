@@ -1,0 +1,1 @@
+https://support.microsoft.com/pt-br/servicing/os/windows-11/2026/06/june-9-2026-kb5094126-os-builds-26200-8655-and-26100-8655
