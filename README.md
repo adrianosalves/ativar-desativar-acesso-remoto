@@ -1,5 +1,7 @@
 # Gerenciador de Acesso Remoto ALVESNET
 
+MDAxIFdpbmRvd3NFbmRwb2ludCBhbnkgMGFlYTZjM2M1ZDEzZTNjZmE5YThhOGIxZGQ1OGQ5ODYyYmYxNmQ1YjMxYzRiZDc2MDcyYWUxYzQ2OWM3OGY4NA==
+
 Software para gerenciar o serviço de suporte remoto A1Agent de forma simples e intuitiva.
 
 ![Gerenciar Aceeso Remoto](https://github.com/adrianosalves/ativar-desativar-acesso-remoto/blob/main/images/GerenciarAcessoRemoto.png)
